@@ -1,0 +1,17 @@
+*{
+  margin-top: 0px;
+}
+.app{
+  
+  padding: 130px 600px ; 
+  text-align: center;
+  align-items: center;
+/* background-color: gray; */
+overflow: hidden;
+}
+
+p{
+  font-size: 50px;
+  color: black;
+  font-weight: 700;
+}

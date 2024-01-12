@@ -1,0 +1,42 @@
+.list{
+    border: 1px solid black;
+    text-align: left;
+    list-style-type: none;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(59, 55, 55);
+    color: white;
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.button-container {
+    display: flex;
+}
+
+.btn-up.del-btn{
+    
+    background-color: green;
+    margin-left: 200px; 
+    position: absolute;
+    /* left: 120px; */
+}
+
+.btn-up.del-btn:hover{
+    background-color: rgb(4, 4, 108);
+    
+}
+
+.del-btn{
+    font-size: 16px;
+    margin-left: 12px; 
+    margin-right: 8px;
+    padding: 6px 14px;
+    border-radius: 5px;
+    background-color: red;
+    border: none;
+}
+
+
+

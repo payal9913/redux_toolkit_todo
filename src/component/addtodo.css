@@ -1,0 +1,23 @@
+input{
+    padding: 12px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    font-size: 600;
+    background-color: rgb(24, 24, 65);
+}
+
+::placeholder{
+    color: white;
+    
+}
+
+.btn{
+    padding: 12px 15px;
+    margin: 5px 12px;
+    color: white;
+    font-weight: 600;
+    background-color: rgb(59, 139, 237);
+    border: none;
+    border-radius: 5px;
+}
